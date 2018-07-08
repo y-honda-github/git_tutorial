@@ -21,8 +21,7 @@ int add(int a, int b){
 
 // 引き算
 int minus(int a, int b){
-  // TODO:
-  return 0;
+  return a - b;
 }
 
 // 掛け算
