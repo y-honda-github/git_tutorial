@@ -33,6 +33,5 @@ int multi(int a, int b){
 
 // 割り算
 int divide(int a, int b){
-  // TODO:
-  return 0;
+  return a / b;
 }
