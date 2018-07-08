@@ -25,8 +25,7 @@ int minus(int a, int b){
 
 // 掛け算
 int multi(int a, int b){
-  // TODO:
-  return 0;
+  return a * b; 
 }
 
 // 割り算
