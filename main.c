@@ -15,8 +15,7 @@ int main(){
 
 // 足し算
 int add(int a, int b){
-  // TODO:
-  return 0;
+  return a + b;
 }
 
 // 引き算
